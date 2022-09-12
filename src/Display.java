@@ -6,7 +6,9 @@ public class Display {
     String[] mainOptions = {"1. Retrieve File Names", "2. Business-level operations", "3. Close application"};
     String[] fileOptions ={"1. Add a file","2. Delete a file","3. Search a file", "4. Return to Main Menu"};
     public void listOptions(){
-        System.out.println("----------------------------");
+        System.out.println("-------------------------------------");
+        System.out.println(this.mainState ? "         Main Menu" : "        Business-level Operations");
+        System.out.println("-------------------------------------");
         System.out.println("Select an Option:");
 
         for (String s : this.mainState ? mainOptions : fileOptions ){

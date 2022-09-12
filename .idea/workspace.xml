@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af385c4-abcc-454a-9293-10b26f48a129" name="Changes" comment="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhaseOneProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/4real" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/abracadabra" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/kreyzi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/newfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Directory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +55,16 @@
       <workItem from="1662983804353" duration="3595000" />
       <workItem from="1662988006398" duration="621000" />
       <workItem from="1663010408063" duration="3019000" />
-      <workItem from="1663013599804" duration="2915000" />
+      <workItem from="1663013599804" duration="4656000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints">
+      <created>1663016526076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663016526076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
