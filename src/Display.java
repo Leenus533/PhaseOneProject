@@ -17,7 +17,6 @@ public class Display {
         getUserInput();
     }
     public void getUserInput(){
-        System.out.println();
         Scanner scanner = new Scanner(System.in);
         int input;
         try {
@@ -30,7 +29,6 @@ public class Display {
                         System.out.println("----------------------------");
                         System.out.println("Thanks for using/testing the application");
                         System.exit(0);
-
                     }
                     default -> System.out.println("Invalid Options");
                 }
@@ -39,18 +37,14 @@ public class Display {
                     case 1 -> addNewFile();
                     case 2 -> deleteFile();
                     case 3 -> findFile();
-                    case 4 -> {
-                        this.mainState = true;
-                        listOptions();
-                    }
+                    case 4 -> this.mainState = true;
                     default -> System.out.println("Invalid Options");
                 }
             }
-            listOptions();
         }catch (Exception e){
             System.out.println("Input Should Only Contain Numbers");
-            listOptions();
         }
+        listOptions();
     }
 
     public String inputString(){

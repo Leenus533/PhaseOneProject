@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6af385c4-abcc-454a-9293-10b26f48a129" name="Changes" comment="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints">
+    <list default="true" id="6af385c4-abcc-454a-9293-10b26f48a129" name="Changes" comment="added stage/state UI to the CLI.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/kreyzi" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Display.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/copper/IdeaProjects/test/PhaseOneProject&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -55,7 +56,9 @@
       <workItem from="1662983804353" duration="3595000" />
       <workItem from="1662988006398" duration="621000" />
       <workItem from="1663010408063" duration="3019000" />
-      <workItem from="1663013599804" duration="4656000" />
+      <workItem from="1663013599804" duration="4711000" />
+      <workItem from="1663018510174" duration="23000" />
+      <workItem from="1663018948622" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints">
       <created>1663016526076</created>
@@ -64,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663016526076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added stage/state UI to the CLI.">
+      <created>1663018402978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663018402978</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit.&#10;Todo: &#10;1. Need to add Documentation.&#10;2. Need to design sprints" />
+    <MESSAGE value="added stage/state UI to the CLI." />
+    <option name="LAST_COMMIT_MESSAGE" value="added stage/state UI to the CLI." />
   </component>
 </project>
